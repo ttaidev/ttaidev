@@ -73,40 +73,28 @@
 
 **Languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,php,dart,mysql&theme=dark" />
 
 </td>
 <td valign="top" width="25%">
 
 **Frameworks & Libraries**
 
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=laravel,bootstrap,flutter&theme=dark" />
 
 </td>
 <td valign="top" width="25%">
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
 </td>
 <td valign="top" width="25%">
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-000000?style=flat-square&logo=xampp&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xampp,postman&theme=dark" />
 
 </td>
 </tr>
