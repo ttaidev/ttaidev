@@ -10,7 +10,7 @@
   </a>
 </p>
 ---
-🧑‍💻 About Me
+🧑‍💻 About Me <br></br>
 🎓 1st-year Software Engineering student at FPT University
 💻 Front-end enthusiast, but comfortable across the whole stack
 🐍 Build software & tools with Python
