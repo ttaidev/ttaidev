@@ -1,4 +1,4 @@
-<h1 align="center">Hi there :wave:, I'm Nguyen Thanh Tai</h1>
+<h1 align="center">Hi there 👋, I'm Nguyen Thanh Tai</h1>
 <h3 align="center">Front-End Focused Developer | Software Engineering Student @ FPT University</h3>
 
 <p align="center">
@@ -15,22 +15,22 @@
 
 ---
 
-### :technologist: About Me
+### 🧑‍💻 About Me
 
-- :mortar_board: 1st-year **Software Engineering** student at **FPT University**
-- :computer: Front-end enthusiast, but comfortable across the whole stack
-- :snake: Build software & tools with **Python**
-- :globe_with_meridians: Build websites with **SQL, PHP, HTML, CSS, JavaScript**
-- :gear: Build automation systems with **Node.js** and **TypeScript**
-- :toolbox: Enjoy creating small tools & utilities to make life easier
-- :earth_americas: Have my own personal website — check it out below!
-- :soccer: Die-hard **Liverpool FC** fan — **You'll Never Walk Alone** :heart:
-- :ramen: Powered by instant noodles (mì tôm) 24/7
-- :mailbox: Reach me at: **[your-email@example.com]**
+- 🎓 1st-year **Software Engineering** student at **FPT University**
+- 💻 Front-end enthusiast, but comfortable across the whole stack
+- 🐍 Build software & tools with **Python**
+- 🌐 Build websites with **SQL, PHP, HTML, CSS, JavaScript**
+- ⚙️ Build automation systems with **Node.js** and **TypeScript**
+- 🧰 Enjoy creating small tools & utilities to make life easier
+- 🌍 Have my own personal website — check it out below!
+- ⚽ Die-hard **Liverpool FC** fan — **You'll Never Walk Alone** ❤️
+- 🍜 Powered by instant noodles (mì tôm) 24/7
+- 📫 Reach me at: **[your-email@example.com]**
 
 ---
 
-### :hammer_and_wrench: Tech Stack
+### 🛠️ Tech Stack
 
 **Languages & Front-End**
 <p align="left">
@@ -54,7 +54,7 @@
 
 ---
 
-### :bar_chart: GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
@@ -67,7 +67,7 @@
 
 ---
 
-### :globe_with_meridians: Connect With Me
+### 🌐 Connect With Me
 
 <p align="left">
   <a href="https://your-website.com" target="_blank">
