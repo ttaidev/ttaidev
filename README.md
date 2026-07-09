@@ -172,12 +172,12 @@ My personal portfolio website.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ttaidev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttaidev&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ttai207&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttai207&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com/?user=ttaidev&hide_border=true&theme=tokyonight&background=0D1117" />
+<img src="https://streak-stats.demolab.com/?user=ttai207&hide_border=true&theme=tokyonight&background=0D1117" />
 
 </div>
 
@@ -185,7 +185,7 @@ My personal portfolio website.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ttaidev&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=ttai207&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -193,7 +193,7 @@ My personal portfolio website.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ttaidev&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ttai207&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" width="100%" />
 
 </div>
 
