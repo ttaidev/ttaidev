@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Nguyen Thanh Tai</h1>
 <h3 align="center">Front-End Focused Developer | Software Engineering Student @ FPT University</h3>
 <p align="center">
-  <em>"Code like you mean it. Debug like a Scouser never walks alone."</em><br/>
+  <em>"Looking for someone to git merge hearts with, no conflicts, just love"</em><br/>
   <em>"Fueled by instant noodles, driven by clean code."</em>
 </p>
 <p align="center">
