@@ -1,88 +1,141 @@
-<h1 align="center">Hi there 👋, I'm Nguyen Thanh Tai</h1>
-<h3 align="center">Front-End Focused Developer | Software Engineering Student @ FPT University</h3>
+<h1 align="center">Hi 👋, I'm Nguyen Thanh Tai</h1>
+
+<h3 align="center">
+Software Engineering Student • Full Stack Developer • Python Automation Enthusiast
+</h3>
 
 <p align="center">
-  <em>"Code like you mean it. Debug like a Scouser never walks alone."</em><br/>
-  <em>"Fueled by instant noodles, driven by clean code."</em><br/>
-  <em>"Looking for someone to `git merge` hearts with — no conflicts, just love."</em>
+  <i>Building useful software, one commit at a time.</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-github-username">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=c0392b&style=flat" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🚀 About Me
 
-- 🎓 1st-year **Software Engineering** student at **FPT University**
-- 💻 Front-end enthusiast, but comfortable across the whole stack
-- 🐍 Build software & tools with **Python**
-- 🌐 Build websites with **SQL, PHP, HTML, CSS, JavaScript**
-- ⚙️ Build automation systems with **Node.js** and **TypeScript**
-- 🧰 Enjoy creating small tools & utilities to make life easier
-- 🌍 Have my own personal website — check it out below!
-- ⚽ Die-hard **Liverpool FC** fan — **You'll Never Walk Alone** ❤️
-- 🍜 Powered by instant noodles (mì tôm) 24/7
-- 📫 Reach me at: **[your-email@example.com]**
+- 🎓 Software Engineering Student at **FPT University**
+- 💻 Passionate about **Full Stack Web Development**
+- 🐍 Building automation tools with **Python**
+- 🌐 Developing websites using **PHP, HTML, CSS, JavaScript**
+- ⚙️ Working with **Node.js**, **TypeScript**, and **MySQL**
+- 🔐 Interested in Authentication, APIs, and System Design
+- 🚀 Love turning ideas into real products
+- ⚽ Huge **Liverpool FC** supporter — **You'll Never Walk Alone ❤️**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages & Front-End**
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,mysql" />
+</p>
+
+### ⚙️ Frameworks & Runtime
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,flutter" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
+</p>
+
+---
+
+## 🚧 Currently Learning
+
+- 🤖 Python Automation
+- 🌐 Full Stack Development
+- 🔐 Authentication & Security
+- ☁️ VPS / Linux Server
+- 📡 REST APIs
+- 💬 Discord Bot Development
+- ⚡ Performance Optimization
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🌐 Website Development
+- 🤖 Python Desktop Applications
+- 🔒 Authentication Systems
+- 📦 REST APIs
+- 💬 Discord Bots
+- ⚙️ Automation Tools
+
+> Check out my repositories for more awesome projects!
+
+---
+
+## 🌍 Connect With Me
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-</p>
 
-**Runtime, Frameworks & Tools**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://ttai207.io.vn">
+<img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🐍 Contribution Snake
 
-<p align="left">
-  <a href="https://your-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-c0392b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-c0392b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-c0392b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Liverpool%20FC-You'll%20Never%20Walk%20Alone-C8102E?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Liverpool%20FC-YNWA-c8102e?style=for-the-badge&logo=liverpool&logoColor=white" alt="Liverpool FC"/>
+  <b>Code • Learn • Build • Improve</b>
 </p>
-
-<p align="center"><i>"This is Anfield." — but also, this is my code.</i></p>
