@@ -172,8 +172,8 @@ My personal portfolio website.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ttai207&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttai207&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ttaidev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttaidev&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" />
 
 <br />
 
