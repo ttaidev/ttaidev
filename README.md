@@ -17,7 +17,6 @@
 <img src="https://komarev.com/ghpvc/?username=ttai207&label=Profile%20Views&color=000000&style=flat" />
 
 <br />
-<br />
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/ttai207)
 
