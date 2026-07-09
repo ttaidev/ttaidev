@@ -20,9 +20,9 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=ttai207&label=Profile%20Views&color=8e2de2&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ttai207&label=Profile%20Views&color=8e2de2&style=for-the-badge" /> [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ttai207)
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ttai207)
+
 
 
 </div>
