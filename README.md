@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyen Thanh Tai</h1>
+<h1 align="center">Nguyen Thanh Tai</h1>
 
 <h3 align="center">
 Software Engineering Student • Full Stack Developer • Python Automation Enthusiast
@@ -14,34 +14,34 @@ Software Engineering Student • Full Stack Developer • Python Automation Enth
 
 ---
 
-## 🚀 About Me
+# About Me
 
-- 🎓 Software Engineering Student at **FPT University**
-- 💻 Passionate about **Full Stack Web Development**
-- 🐍 Building automation tools with **Python**
-- 🌐 Developing websites using **PHP, HTML, CSS, JavaScript**
-- ⚙️ Working with **Node.js**, **TypeScript**, and **MySQL**
-- 🔐 Interested in Authentication, APIs, and System Design
-- 🚀 Love turning ideas into real products
-- ⚽ Huge **Liverpool FC** supporter — **You'll Never Walk Alone ❤️**
+- Software Engineering Student at **FPT University**
+- Passionate about **Full Stack Web Development**
+- Building automation tools with **Python**
+- Developing websites using **PHP, HTML, CSS, JavaScript**
+- Working with **Node.js**, **TypeScript**, and **MySQL**
+- Interested in APIs, Authentication and System Design
+- Love turning ideas into real products
+- Liverpool FC supporter
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,mysql" />
 </p>
 
-### ⚙️ Frameworks & Runtime
+### Frameworks & Runtime
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,react,flutter" />
 </p>
 
-### 🧰 Tools
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
@@ -49,19 +49,18 @@ Software Engineering Student • Full Stack Developer • Python Automation Enth
 
 ---
 
-## 🚧 Currently Learning
+# Currently Learning
 
-- 🤖 Python Automation
-- 🌐 Full Stack Development
-- 🔐 Authentication & Security
-- ☁️ VPS / Linux Server
-- 📡 REST APIs
-- 💬 Discord Bot Development
-- ⚡ Performance Optimization
+- Full Stack Development
+- Python Automation
+- REST APIs
+- Authentication & Security
+- Linux Server
+- Performance Optimization
 
 ---
 
-## 📊 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -75,7 +74,7 @@ Software Engineering Student • Full Stack Developer • Python Automation Enth
 
 ---
 
-## 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
@@ -83,20 +82,18 @@ Software Engineering Student • Full Stack Developer • Python Automation Enth
 
 ---
 
-## 🚀 Featured Projects
+# Featured Projects
 
-- 🌐 Website Development
-- 🤖 Python Desktop Applications
-- 🔒 Authentication Systems
-- 📦 REST APIs
-- 💬 Discord Bots
-- ⚙️ Automation Tools
-
-> Check out my repositories for more awesome projects!
+- Website Development
+- Python Desktop Applications
+- REST APIs
+- Authentication Systems
+- Discord Bots
+- Automation Tools
 
 ---
 
-## 🌍 Connect With Me
+# Connect With Me
 
 <p align="left">
 
@@ -116,7 +113,17 @@ Software Engineering Student • Full Stack Developer • Python Automation Enth
 
 ---
 
-## 📈 Contribution Graph
+# Support Me
+
+<p>
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=YOUR_USERNAME&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" />
+</a>
+</p>
+
+---
+
+# Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
@@ -124,18 +131,14 @@ Software Engineering Student • Full Stack Developer • Python Automation Enth
 
 ---
 
-## 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Liverpool%20FC-You'll%20Never%20Walk%20Alone-C8102E?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <b>Code • Learn • Build • Improve</b>
+<b>Code • Learn • Build • Improve</b>
 </p>
