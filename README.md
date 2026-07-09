@@ -12,6 +12,15 @@
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ttai207)
 
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=ttai207&label=Profile%20Views&color=000000&style=flat" />
+
+<br />
+<br />
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/ttai207)
+
 </div>
 
 <br />
@@ -190,25 +199,11 @@ My personal portfolio website.
 
 <br />
 
-## Support My Work
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/ttai207)
-
-</div>
-
-<br />
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%" />
 
 <div align="center">
 
 <br />
-
-<img src="https://komarev.com/ghpvc/?username=ttai207&label=Profile%20Views&color=000000&style=flat" />
-
-<br /><br />
 
 <sub>Designed and maintained by Nguyen Thanh Tai</sub>
 
