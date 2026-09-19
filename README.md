@@ -143,20 +143,14 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <h3>🇻🇳 Vietnamese</h3>
       <img src="https://img.shields.io/badge/Native-5865F2?style=for-the-badge&color=5865F2" />
       <br><br>
       <code>██████████ 100%</code>
     </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <h3>🇬🇧 English</h3>
-      <img src="https://img.shields.io/badge/B1-5865F2?style=for-the-badge&color=5865F2" />
-      <br><br>
-      <code>█████░░░░░ 50%</code>
-    </td>
-    <td width="33%" align="center">
-      <h3>🇩🇪 Deutsch</h3>
       <img src="https://img.shields.io/badge/B1-5865F2?style=for-the-badge&color=5865F2" />
       <br><br>
       <code>█████░░░░░ 50%</code>
