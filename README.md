@@ -9,7 +9,7 @@
   
   <br>
   
-  <img src="https://github.com/ttai207.png" width="150" style="border-radius: 50%; border: 4px solid #5865F2;" />
+  <img src="https://avatars.githubusercontent.com/u/184898871?v=4" width="150" style="border-radius: 50%; border: 4px solid #5865F2;" />
   <br>
   <img src="https://img.shields.io/badge/Status-🟢%20Online-2B2D31?style=for-the-badge&logoColor=white&color=2B2D31&labelColor=2B2D31" />
   
@@ -31,7 +31,7 @@
 <table width="100%">
   <tr>
     <td width="30%" align="center">
-      <img src="https://github.com/ttai207.png" width="120" style="border-radius: 50%;" />
+      <img src="https://avatars.githubusercontent.com/u/184898871?v=4" width="120" style="border-radius: 50%;" />
       <br>
       <h3>taiii</h3>
       <img src="https://img.shields.io/badge/🟢%20Online-3BA55D?style=flat-square&color=2B2D31" />
@@ -202,15 +202,15 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ttai207&show_icons=true&hide_border=true&bg_color=2B2D31&title_color=ffffff&icon_color=5865F2&text_color=B5BAC1" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ttaidev&show_icons=true&hide_border=true&bg_color=2B2D31&title_color=ffffff&icon_color=5865F2&text_color=B5BAC1" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttai207&hide_border=true&bg_color=2B2D31&title_color=ffffff&text_color=B5BAC1&layout=compact" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttaidev&hide_border=true&bg_color=2B2D31&title_color=ffffff&text_color=B5BAC1&layout=compact" width="100%" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttai207&hide_border=true&background=2B2D31&ring=5865F2&fire=5865F2&currStreakNum=ffffff&currStreakLabel=B5BAC1&sideNums=ffffff&sideLabels=B5BAC1&dates=ffffff" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttaidev&hide_border=true&background=2B2D31&ring=5865F2&fire=5865F2&currStreakNum=ffffff&currStreakLabel=B5BAC1&sideNums=ffffff&sideLabels=B5BAC1&dates=ffffff" width="100%" />
     </td>
   </tr>
 </table>
