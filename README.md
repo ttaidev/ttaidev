@@ -1,224 +1,226 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Nguyen%20Thanh%20Tai&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=18" width="100%" />
-
-<br />
-
-<a href="https://ttai207.io.vn">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer;FPT+University+Student;Building+with+Laravel+%26+Flutter;Always+learning%2C+always+building&font=Fira+Code&center=true&width=500&height=40&color=A855F7&vCenter=true&size=20&pause=1500" />
-</a>
-
-<br />
-
-<sub>FPT University&nbsp;&nbsp;&middot;&nbsp;&nbsp;Can Tho, Vietnam</sub>
-
-<br /><br />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ttai207.io.vn)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ttai207)
-
-
-
-<img src="https://komarev.com/ghpvc/?username=ttai207&label=Profile%20Views&color=8e2de2&style=for-the-badge" /> [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ttai207)
-
-
-
-
+  <h1>Hi, I'm Nguyen Thanh Tai 👋</h1>
+  <h3>Front-End Developer • Software Engineering Student</h3>
+  
+  <a href="https://ttai207.io.vn">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer;Building+Web+Experiences;Learning+AI;Creating+Digital+Products&font=Inter&center=true&width=500&height=50&color=5865F2&vCenter=true&size=20&pause=1000" />
+  </a>
+  
+  <br>
+  
+  <img src="https://github.com/ttai207.png" width="150" style="border-radius: 50%; border: 4px solid #5865F2;" />
+  <br>
+  <img src="https://img.shields.io/badge/Status-🟢%20Online-2B2D31?style=for-the-badge&logoColor=white&color=2B2D31&labelColor=2B2D31" />
+  
+  <br><br>
+  
+  <a href="https://ttai207.io.vn">
+    <img src="https://img.shields.io/badge/Portfolio-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/ttai207">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<br />
+## 🎮 Profile
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%" />
-
-<br />
-
-## About Me
-
-<table>
-<tr>
-<td>
-
-- Software Engineering student at FPT University
-- Passionate about Web Development
-- Focus on Front-End development
-- Learning Laravel, Flutter and modern web technologies
-- Interested in UI/UX, Open Source and Startup projects
-- Always improving coding skills
-- Love building useful products
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://github.com/ttai207.png" width="120" style="border-radius: 50%;" />
+      <br>
+      <h3>taiii</h3>
+      <img src="https://img.shields.io/badge/🟢%20Online-3BA55D?style=flat-square&color=2B2D31" />
+    </td>
+    <td width="70%">
+      <h3>Activity</h3>
+      <img src="https://img.shields.io/badge/💻%20Coding-2B2D31?style=flat-square&color=2B2D31" />
+      <img src="https://img.shields.io/badge/🌱%20Learning-2B2D31?style=flat-square&color=2B2D31" />
+      <img src="https://img.shields.io/badge/☕%20Drinking%20coffee-2B2D31?style=flat-square&color=2B2D31" />
+      <br><br>
+      <h3>Bio</h3>
+      <code>Building beautiful interfaces and useful products.</code>
+    </td>
+  </tr>
 </table>
 
-<br />
+## 👤 About Me
 
-## Current Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Building**
-- Real-world, production-ready projects
-- Personal portfolio and side projects
-
-</td>
-<td width="50%" valign="top">
-
-**Learning**
-- Laravel
-- Flutter
-- UI/UX design principles
-- Open Source contribution workflow
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="60%">
+      <blockquote>
+        <p>🎓 <b>Software Engineering Student</b> at FPT University</p>
+        <p>💻 Passionate about <b>Web Development and UI/UX</b></p>
+        <p>🚀 Focus on <b>Front-End Development</b></p>
+        <p>📚 Learning <b>Laravel, Flutter, Next.js</b> and <b>AI technologies</b></p>
+        <p>✨ Love building <b>useful products</b></p>
+      </blockquote>
+      <div align="center">
+        <i>"Small steps make big progress ✨"</i>
+      </div>
+    </td>
+    <td width="40%" align="center">
+      <img src="./meopc.jpg" alt="meo pc" width="90%" style="border-radius: 10px;" />
+    </td>
+  </tr>
 </table>
 
-<br />
+## 🛠️ Skills
 
-## Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="25%">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,dart,mysql&theme=dark" />
-
-</td>
-<td valign="top" width="25%">
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=laravel,bootstrap,flutter&theme=dark" />
-
-</td>
-<td valign="top" width="25%">
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
-</td>
-<td valign="top" width="25%">
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xampp,postman&theme=dark" />
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top">
+      <h3>🎨 Frontend</h3>
+      <img src="https://img.shields.io/badge/React-2B2D31?style=flat-square&logo=react&logoColor=61DAFB" /><br>
+      <img src="https://img.shields.io/badge/Next.js-2B2D31?style=flat-square&logo=next.js&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/TypeScript-2B2D31?style=flat-square&logo=typescript&logoColor=3178C6" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-2B2D31?style=flat-square&logo=javascript&logoColor=F7DF1E" /><br>
+      <img src="https://img.shields.io/badge/HTML-2B2D31?style=flat-square&logo=html5&logoColor=E34F26" /><br>
+      <img src="https://img.shields.io/badge/CSS-2B2D31?style=flat-square&logo=css3&logoColor=1572B6" /><br>
+      <img src="https://img.shields.io/badge/Tailwind-2B2D31?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+    </td>
+    <td width="25%" valign="top">
+      <h3>⚙️ Backend</h3>
+      <img src="https://img.shields.io/badge/Node.js-2B2D31?style=flat-square&logo=nodedotjs&logoColor=339939" /><br>
+      <img src="https://img.shields.io/badge/Laravel-2B2D31?style=flat-square&logo=laravel&logoColor=FF2D20" /><br>
+      <img src="https://img.shields.io/badge/Prisma-2B2D31?style=flat-square&logo=prisma&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-2B2D31?style=flat-square&logo=postgresql&logoColor=4169E1" /><br>
+      <img src="https://img.shields.io/badge/Supabase-2B2D31?style=flat-square&logo=supabase&logoColor=3ECF8E" />
+    </td>
+    <td width="25%" valign="top">
+      <h3>📱 Mobile</h3>
+      <img src="https://img.shields.io/badge/Flutter-2B2D31?style=flat-square&logo=flutter&logoColor=02569B" /><br>
+      <img src="https://img.shields.io/badge/Dart-2B2D31?style=flat-square&logo=dart&logoColor=0175C2" />
+    </td>
+    <td width="25%" valign="top">
+      <h3>🔧 Tools</h3>
+      <img src="https://img.shields.io/badge/Git-2B2D31?style=flat-square&logo=git&logoColor=F05032" /><br>
+      <img src="https://img.shields.io/badge/GitHub-2B2D31?style=flat-square&logo=github&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/VS%20Code-2B2D31?style=flat-square&logo=visualstudiocode&logoColor=007ACC" /><br>
+      <img src="https://img.shields.io/badge/Figma-2B2D31?style=flat-square&logo=figma&logoColor=F24E1E" />
+    </td>
+  </tr>
 </table>
 
-<br />
+## 📂 Current Projects
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**ThuVienCode**
-
-A platform for sharing and selling source code.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-[View Repository](https://github.com/ttai207/ThuVienCode)
-
-</td>
-<td width="33%" valign="top">
-
-**Haxball Tools**
-
-Tools and utilities for Haxball communities.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-[View Repository](https://github.com/ttai207/Haxball-Tools)
-
-</td>
-<td width="33%" valign="top">
-
-**Personal Portfolio**
-
-My personal portfolio website.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[View Repository](https://github.com/ttai207/Portfolio) &nbsp;&middot;&nbsp; [Live Site](https://ttai207.io.vn)
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <blockquote>
+        <h3>🚀 ThuVienCode</h3>
+        <p>Platform for sharing and selling source code.</p>
+        <img src="https://skillicons.dev/icons?i=laravel,php,mysql&theme=dark" height="30" />
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <blockquote>
+        <h3>⚽ Haxball Tools</h3>
+        <p>Tools and utilities for Haxball communities.</p>
+        <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="30" />
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <blockquote>
+        <h3>🌐 Personal Portfolio</h3>
+        <p>My personal developer portfolio website.</p>
+        <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="30" />
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <blockquote>
+        <h3>🟣 Mì studio</h3>
+        <p>Website development service.</p>
+        <img src="https://skillicons.dev/icons?i=figma,react,tailwind&theme=dark" height="30" />
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <blockquote>
+        <h3>🛡️ Mì Sentinel</h3>
+        <p>Discord security bot.</p>
+        <img src="https://skillicons.dev/icons?i=discord,nodejs,ts&theme=dark" height="30" />
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <blockquote>
+        <h3>📚 Deutsch B1 App</h3>
+        <p>German learning platform.</p>
+        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="30" />
+      </blockquote>
+    </td>
+  </tr>
 </table>
 
-<br />
+## 🏷️ Interests
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%" />
+<p align="center">
+  <img src="https://img.shields.io/badge/💻%20Coding-2B2D31?style=flat-square&color=2B2D31&labelColor=2B2D31&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎮%20Games-2B2D31?style=flat-square&color=2B2D31&labelColor=2B2D31&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎧%20Music-2B2D31?style=flat-square&color=2B2D31&labelColor=2B2D31&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌸%20Anime-2B2D31?style=flat-square&color=2B2D31&labelColor=2B2D31&logoColor=white" />
+  <img src="https://img.shields.io/badge/☕%20Coffee-2B2D31?style=flat-square&color=2B2D31&labelColor=2B2D31&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤖%20AI-2B2D31?style=flat-square&color=2B2D31&labelColor=2B2D31&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌎%20Technology-2B2D31?style=flat-square&color=2B2D31&labelColor=2B2D31&logoColor=white" />
+</p>
 
-<br />
+## 🌍 Languages
 
-## GitHub Analytics
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <h3>🇻🇳 Vietnamese</h3>
+      <img src="https://img.shields.io/badge/Native-5865F2?style=for-the-badge&color=5865F2" />
+      <br><br>
+      <code>██████████ 100%</code>
+    </td>
+    <td width="33%" align="center">
+      <h3>🇬🇧 English</h3>
+      <img src="https://img.shields.io/badge/B1-5865F2?style=for-the-badge&color=5865F2" />
+      <br><br>
+      <code>█████░░░░░ 50%</code>
+    </td>
+    <td width="33%" align="center">
+      <h3>🇩🇪 Deutsch</h3>
+      <img src="https://img.shields.io/badge/B1-5865F2?style=for-the-badge&color=5865F2" />
+      <br><br>
+      <code>█████░░░░░ 50%</code>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Stats
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ttai207&show_icons=true&hide_border=true&bg_color=2B2D31&title_color=ffffff&icon_color=5865F2&text_color=B5BAC1" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttai207&hide_border=true&bg_color=2B2D31&title_color=ffffff&text_color=B5BAC1&layout=compact" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttai207&hide_border=true&background=2B2D31&ring=5865F2&fire=5865F2&currStreakNum=ffffff&currStreakLabel=B5BAC1&sideNums=ffffff&sideLabels=B5BAC1&dates=ffffff" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ttaidev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttaidev&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com/?user=ttaidev&hide_border=true&theme=tokyonight&background=0D1117" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ttaidev&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ttaidev&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" width="100%" />
-
-</div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%" />
-
-<br />
-
-## Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ttai207.io.vn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-facebook)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ttai207)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=150&section=footer" width="100%" />
-
-<div align="center">
-<sub>Designed and maintained by Nguyen Thanh Tai</sub>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <br><br>
+  <b>"Thanks for visiting my profile ✨"</b>
+  <br><br>
+  <sub>Designed by Nguyen Thanh Tai</sub>
 </div>
